@@ -2,8 +2,5 @@ TEST1
 TEST2
 TEST3
 TEST4
-<<<<<<< HEAD
 TEST5
 TEST6
-=======
->>>>>>> parent of 5daca9a... Added TEST5
